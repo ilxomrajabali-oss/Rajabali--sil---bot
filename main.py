@@ -7,7 +7,8 @@ import google.generativeai as genai
 from aiohttp import web
 
 # TO'G'RI BOT TOKENI (BotFather'dan olingan oxirgi tokenni tekshirib qo'ying)
-8577469434:AAEthC-N65LotFay--HEpwOd6Pm5HMTrmoY
+TELEGRAM_TOKEN =8577469434:AAEthC-N65LotFay--HEpwOd6Pm5HMTrmoY
+
 
 # BEPUL GEMINI AI KALITI
 GEMINI_API_KEY = "AIzaSyD-ExampleKey-DoNotChangeIfWorking" 
