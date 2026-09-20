@@ -10,7 +10,7 @@ from aiohttp import web
 TELEGRAM_TOKEN = "8577469434:AAEthC-N65LotFay--HEpw0d6Pm5HMTrmoY"
 
 # GOOGLE AI STUDIODAN OLGAN YANGI SHAXSIY KALITINGIZ
-GEMINI_API_KEY = " Sizning_Haqiqiy_Kalitingiz"
+GEMINI_API_KEY = "Ab8RN6KAvhdxWWWpEKP91Mw-D4d2j0btL7zdJqKe2YxuMRclLQ"
 
 os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
 genai.configure()
