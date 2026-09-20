@@ -11,7 +11,7 @@ TELEGRAM_TOKEN ="8577469434:AAEthC-N65LotFay--HEpwOd6Pm5HMTrmoY"
 
 
 # BEPUL GEMINI AI KALITI
-GEMINI_API_KEY = "AIzaSyD-ExampleKey-DoNotChangeIfWorking" 
+GEMINI_API_KEYAQ.="Ab8RN6KAvhdxWWWpEKP91Mw-D4d2j0btL7zdJqKe2YxuMRclLQ"
 
 # Sun'iy intellekt xarakteri
 genai.configure(api_key=GEMINI_API_KEY)
